@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">tachominimal</string>
+    <string name="default_value">no GPS</string>
 </resources>
